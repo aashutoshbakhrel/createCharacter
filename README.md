@@ -7,7 +7,7 @@ Description:
     using filled and empty dots.
 
 Author:
-    Aashutosh Bakhrel (आशुतोष बाख्रेल)
+    Aashutosh Bakhrel (आशुतोष बख्रेल)
 
 Python Version:
     Python 3.12.3
